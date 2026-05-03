@@ -9,7 +9,7 @@
     "ip": "McgamingHK.aternos.me",
     "port": 32134,
     "version": "",
-    "try-creative": afkbot},
+    "try-creative": false},
   "position": {
     "enabled": true,
     "x": 0,
