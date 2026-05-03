@@ -6,11 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "McgamingHK.aternos.me",
+    "port": 32134,
     "version": "",
-    "try-creative": false
-  },
+    "try-creative": afkbot},
   "position": {
     "enabled": true,
     "x": 0,
